@@ -1,6 +1,7 @@
 # Instrucciones de instalación
 
 Versión recomendada de Python: 3.10
+
 Se recomienda la creación de un virtual environment antes de instalar las dependencias:
 
 Si se tiene conda instalado:
